@@ -35,3 +35,4 @@ C:\Users\Guirado\source\repos\MyAppVsCode\obj\Debug\netcoreapp3.1\MyAppVsCode.dl
 C:\Users\Guirado\source\repos\MyAppVsCode\obj\Debug\netcoreapp3.1\MyAppVsCode.pdb
 C:\Users\Guirado\source\repos\MyAppVsCode\obj\Debug\netcoreapp3.1\MyAppVsCode.genruntimeconfig.cache
 C:\Users\Guirado\source\repos\MyAppVsCode\obj\Debug\netcoreapp3.1\MyAppVsCode.csproj.CopyComplete
+C:\Users\Guirado\source\repos\MyAppVsCode\bin\Debug\netcoreapp3.1\AutoMapper.dll

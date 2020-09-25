@@ -46,6 +46,8 @@ namespace MyAppVsCode
 
             app.UseAuthorization();
 
+            app.UseTestMiddleware();
+
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute(
