@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XZdz6DuQcKRy70LyTqgF/9M9OPo10FwarJGiTQ4hR1QmT/xZnkDGpdLv7Eeu6ZeV1C2HiitY8S3KLk6eIrl/Tg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Guirado\\source\\repos\\MyAppVsCode\\MyAppVsCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Guirado\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
+    "C:\\Users\\Guirado\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Guirado\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
